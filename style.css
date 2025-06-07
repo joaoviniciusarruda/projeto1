@@ -1,4 +1,40 @@
-*{margin: 0; pading:0;}
-body{
-        background: red;
+*{margin: 0; padding:0;}
+header{
+height:200px;
+display:flex;
+align-items:center;
+justify-content:space-around;
+border:1px solid black;
+}
+       
+header nav ul{
+display:flex;
+
+}
+
+header nav ul li{
+
+list-style:none;
+margin:10px;
+
+}
+
+header nav ul li a{
+text-decoration: none;
+color:#333;
+}
+header img{
+height:px;
+
+
+}
+
+header nav ul li a:hover{
+color:red;
+
+}
+li nome{
+
+
+
 }
