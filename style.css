@@ -33,7 +33,24 @@ header nav ul li a:hover{
 color:red;
 
 }
-li nome{
+section#banner{
+background:gray;
+height:350px;
+
+}
+section#noticias{
+width:1100px;
+height:auto;
+margin: 0 auto;
+border: 1px solid black;
+}
+section#noticias ul li{
+list-style:none
+widht: 350px;
+height: 350px;
+background:gray;
+}
+
 
 
 
